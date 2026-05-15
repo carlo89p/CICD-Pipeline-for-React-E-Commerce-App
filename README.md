@@ -17,3 +17,7 @@ Tests are written with Jest and React Testing Library. The suite covers navbar l
 
 Built with
 React, TypeScript, Vite, Redux Toolkit, React Query, React Bootstrap
+
+Live Vercel Link: https://cicd-pipeline-for-react-e-commerce.vercel.app/
+
+
