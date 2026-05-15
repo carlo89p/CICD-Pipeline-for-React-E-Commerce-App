@@ -1,4 +1,5 @@
 CICD PIPLINE PROJECT
+
 A React e-commerce app built with Vite, TypeScript, Redux Toolkit and React Query. Browse products, filter by category and manage a shopping cart.
 
 How it works
